@@ -8,3 +8,4 @@ The sections of this analysis include:
 * Transforming the text
 * Method 1: TfidfVectorizer
 * Method 2: Doc2Vec
+* Method 3: LSTM
